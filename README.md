@@ -130,10 +130,12 @@ When complete, you’ll see a popup: **“Analysis complete! Results saved.”**
 
 ---
 
-## Adding Images to Your GitHub README
+## Example Output
 
-You can include the output heatmaps (e.g., `center_heatmap.png`, `intensity_heatmap.png`) in your GitHub README by placing them in your repository and referencing them like so:
+Here’s an example of the generated heatmap:
 
-```markdown
-![Center Heatmap](path/to/center_heatmap.png)
-![Intensity Heatmap](path/to/intensity_heatmap.png)
+![Center Heatmap](center_heatmap.png)
+
+And here’s the intensity heatmap:
+
+![Intensity Heatmap](intensity_heatmap.png)
